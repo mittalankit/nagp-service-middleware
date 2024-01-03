@@ -25,7 +25,7 @@ Following ports should be available for the nodejs services:
   2. Go to `order-server` folder and run `npm start`
   3. Go to `rabbit-mq-notification-service` folder 
     - Start Notification 1 service to listen order create event only `node notification1-consumer.js`
-    - Start Notification 1 service to listen order create and updated event `node notification2-consumer.js`
+    - Start Notification 2 service to listen order create and updated event `node notification2-consumer.js`
 
 ### **APIs**
 1. List all products  

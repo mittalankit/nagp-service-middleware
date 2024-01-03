@@ -28,6 +28,7 @@ if (require.main === module) {
   var routeServer = getServer();
   routeServer.bindAsync("0.0.0.0:50051", grpc.ServerCredentials.createInsecure(), () => {
     routeServer.start();
+    console.log('Server is started and listening on 50051');
   });
 }
 
