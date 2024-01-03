@@ -1,0 +1,27 @@
+{
+  "vhosts": {
+    "v1": {
+      "connection": {
+        "url": "amqp://user:password@broker.example.com:5742/",
+        "retry": {
+          "min": 1000,
+          "max": 60000,
+          "factor": 2,
+          "strategy": "exponential"
+        }
+      },
+      "queues": {
+        "order_created": {
+          "assert": true,
+          "check": true
+        }
+      },
+      "subscriptions": {
+        "order_created_sub": {
+          "vhost": "v1",
+          "queue": "order_created"
+        }
+      }
+    }
+  }
+}

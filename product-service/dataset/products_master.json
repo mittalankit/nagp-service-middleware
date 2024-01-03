@@ -1,0 +1,352 @@
+[
+    {
+      "id": 1,
+      "name": "Stylish Watch",
+      "description": "Classic wristwatch with leather strap",
+      "colors": ["Black", "Brown", "Silver"],
+      "price": 3749.51
+    },
+    {
+      "id": 2,
+      "name": "Laptop Backpack",
+      "description": "Water-resistant backpack with multiple pockets",
+      "colors": ["Gray", "Black", "Blue"],
+      "price": 2542.26
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds",
+      "description": "High-quality sound with noise cancellation",
+      "colors": ["White", "Black", "Gold"],
+      "price": 5939.26
+    },
+    {
+      "id": 4,
+      "name": "Fitness Tracker",
+      "description": "Monitor your health and workouts seamlessly",
+      "colors": ["Blue", "Black", "Red"],
+      "price": 4424.26
+    },
+    {
+      "id": 5,
+      "name": "Coffee Maker",
+      "description": "Programmable coffee machine for home use",
+      "colors": ["Silver", "Black", "Red"],
+      "price": 6644.26
+    },
+    {
+      "id": 6,
+      "name": "Smart LED TV",
+      "description": "4K UHD display with smart TV capabilities",
+      "colors": ["Black", "Silver", "Gold"],
+      "price": 46714.26
+    },
+    {
+      "id": 7,
+      "name": "Portable Bluetooth Speaker",
+      "description": "Compact speaker with deep bass",
+      "colors": ["Red", "Black", "Blue"],
+      "price": 3284.26
+    },
+    {
+      "id": 8,
+      "name": "Professional Camera",
+      "description": "DSLR camera for photography enthusiasts",
+      "colors": ["Black", "Silver", "White"],
+      "price": 80939.26
+    },
+    {
+      "id": 9,
+      "name": "Leather Office Chair",
+      "description": "Ergonomic chair for comfortable workspace",
+      "colors": ["Brown", "Black", "Gray"],
+      "price": 11559.26
+    },
+    {
+      "id": 10,
+      "name": "Air Purifier",
+      "description": "HEPA filter for clean and fresh air",
+      "colors": ["White", "Silver", "Blue"],
+      "price": 13589.26
+    },
+    {
+      "id": 11,
+      "name": "Stainless Steel Cookware",
+      "description": "10-piece set for versatile cooking",
+      "colors": ["Silver", "Black", "Red"],
+      "price": 16189.26
+    },
+    {
+      "id": 12,
+      "name": "Gaming Mouse",
+      "description": "High-precision mouse for gaming enthusiasts",
+      "colors": ["RGB", "Black", "White"],
+      "price": 7384.26
+    },
+    {
+      "id": 13,
+      "name": "Men's Running Shoes",
+      "description": "Lightweight and breathable for active lifestyles",
+      "colors": ["Blue", "Black", "Gray"],
+      "price": 10359.26
+    },
+    {
+      "id": 14,
+      "name": "Digital Alarm Clock",
+      "description": "LED display with multiple alarm settings",
+      "colors": ["Black", "White", "Blue"],
+      "price": 3284.26
+    },
+    {
+      "id": 15,
+      "name": "Designer Sunglasses",
+      "description": "UV protection with stylish frame",
+      "colors": ["Brown", "Black", "Red"],
+      "price": 8884.26
+    },
+    {
+      "id": 16,
+      "name": "Slow Cooker",
+      "description": "6-quart programmable slow cooker",
+      "colors": ["Silver", "Black", "Red"],
+      "price": 5544.26
+    },
+    {
+      "id": 17,
+      "name": "Yoga Mat",
+      "description": "Non-slip and comfortable for home workouts",
+      "colors": ["Green", "Blue", "Purple"],
+      "price": 3464.26
+    },
+    {
+      "id": 18,
+      "name": "Wireless Gaming Headset",
+      "description": "Immersive sound experience for gamers",
+      "colors": ["Black/Red", "Blue/Black", "White"],
+      "price": 8884.26
+    },
+    {
+      "id": 19,
+      "name": "Portable Power Bank",
+      "description": "High-capacity battery for on-the-go charging",
+      "colors": ["Blue", "Black", "White"],
+      "price": 3284.26
+    },
+    {
+      "id": 20,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Insulated bottle for hot and cold beverages",
+      "colors": ["Silver", "Black", "Blue"],
+      "price": 2184.26
+    },
+    {
+      "id": 21,
+      "name": "Espresso Machine",
+      "description": "Make barista-quality espresso at home",
+      "colors": ["Stainless Steel", "Black", "Red"],
+      "price": 17489.26
+    },
+    {
+      "id": 22,
+      "name": "Dumbbell Set",
+      "description": "Adjustable weight for versatile workouts",
+      "colors": ["Black", "Red", "Blue"],
+      "price": 10359.26
+    },
+    {
+      "id": 23,
+      "name": "HD Webcam",
+      "description": "Clear video quality for virtual meetings",
+      "colors": ["Black", "White", "Silver"],
+      "price": 7384.26
+    },
+    {
+      "id": 24,
+      "name": "Leather Wallet",
+      "description": "Classic wallet with multiple card slots",
+      "colors": ["Brown", "Black", "Tan"],
+      "price": 2999.51
+    },
+    {
+      "id": 25,
+      "name": "Bluetooth Keyboard",
+      "description": "Wireless keyboard for efficient typing",
+      "colors": ["White", "Black", "Silver"],
+      "price": 3999.51
+    },
+    {
+      "id": 26,
+      "name": "Smart Home Thermostat",
+      "description": "Programmable thermostat for energy efficiency",
+      "colors": ["Silver", "White", "Black"],
+      "price": 10359.26
+    },
+    {
+      "id": 27,
+      "name": "Backpacking Tent",
+      "description": "Lightweight tent for outdoor adventures",
+      "colors": ["Green", "Blue", "Orange"],
+      "price": 14999.51
+    },
+    {
+      "id": 28,
+      "name": "Electric Toothbrush",
+      "description": "Sonic technology for thorough oral care",
+      "colors": ["Blue", "White", "Black"],
+      "price": 7384.26
+    },
+    {
+      "id": 29,
+      "name": "Fitness Resistance Bands",
+      "description": "Set of 5 bands for strength training",
+      "colors": ["Multicolor", "Blue/Black", "Purple"],
+      "price": 3284.26
+    },
+    {
+      "id": 30,
+      "name": "Chef's Knife Set",
+      "description": "High-quality knives for kitchen enthusiasts",
+      "colors": ["Stainless Steel", "Black", "Red"],
+      "price": 5939.26
+    },
+    {
+      "id": 31,
+      "name": "Travel Luggage Set",
+      "description": "Durable and spacious luggage set",
+      "colors": ["Black", "Silver", "Red"],
+      "price": 13409.26
+    },
+    {
+      "id": 32,
+      "name": "Home Security Camera System",
+      "description": "Monitor your home with ease",
+      "colors": ["White", "Black", "Silver"],
+      "price": 19769.26
+    },
+    {
+      "id": 33,
+      "name": "Wireless Charging Pad",
+      "description": "Qi-compatible pad for convenient charging",
+      "colors": ["Black", "White", "Silver"],
+      "price": 2184.26
+    },
+    {
+      "id": 34,
+      "name": "In-Ear Monitoring Earphones",
+      "description": "Professional audio for musicians",
+      "colors": ["Clear", "Black", "White"],
+      "price": 8884.26
+    },
+    {
+      "id": 35,
+      "name": "Electric Kettle",
+      "description": "Boil water quickly with this modern kettle",
+      "colors": ["Stainless Steel", "Black", "White"],
+      "price": 3749.51
+    },
+    {
+      "id": 36,
+      "name": "Running Waist Pack",
+      "description": "Waterproof pack for essentials during runs",
+      "colors": ["Black", "Blue", "Red"],
+      "price": 1499.51
+    },
+    {
+      "id": 37,
+      "name": "Desk Organizer Set",
+      "description": "Keep your workspace tidy with this set",
+      "colors": ["Silver", "Black", "White"],
+      "price": 2999.51
+    },
+    {
+      "id": 38,
+      "name": "Portable Projector",
+      "description": "Enjoy movies and presentations on the go",
+      "colors": ["White", "Black", "Silver"],
+      "price": 13589.26
+    },
+    {
+      "id": 39,
+      "name": "Wireless Charging Stand",
+      "description": "Convenient stand for charging your devices",
+      "colors": ["Rose Gold", "Black", "White"],
+      "price": 3999.51
+    },
+    {
+      "id": 40,
+      "name": "Barbecue Grill",
+      "description": "Charcoal grill for outdoor cooking",
+      "colors": ["Black", "Red", "Silver"],
+      "price": 5939.26
+    },
+    {
+      "id": 41,
+      "name": "Noise-Canceling Headphones",
+      "description": "Immerse yourself in music without distractions",
+      "colors": ["Black", "White", "Silver"],
+      "price": 8884.26
+    },
+    {
+      "id": 42,
+      "name": "Glass Food Storage Containers",
+      "description": "Set of 10 containers with lids",
+      "colors": ["Clear", "Blue", "Green"],
+      "price": 2184.26
+    },
+    {
+      "id": 43,
+      "name": "Resistance Stationary Bike",
+      "description": "Indoor exercise bike for home workouts",
+      "colors": ["Red", "Black", "Silver"],
+      "price": 19769.26
+    },
+    {
+      "id": 44,
+      "name": "Cat Tree Tower",
+      "description": "Multi-level cat tower for feline entertainment",
+      "colors": ["Beige", "Gray", "Brown"],
+      "price": 3284.26
+    },
+    {
+      "id": 45,
+      "name": "Mini Air Humidifier",
+      "description": "Compact humidifier for improved air quality",
+      "colors": ["Blue", "White", "Black"],
+      "price": 2184.26
+    },
+    {
+      "id": 46,
+      "name": "Electric Scooter",
+      "description": "Foldable scooter for convenient commuting",
+      "colors": ["Black", "White", "Red"],
+      "price": 19769.26
+    },
+    {
+      "id": 47,
+      "name": "Polaroid Instant Camera",
+      "description": "Capture memories instantly with this camera",
+      "colors": ["Mint Green", "White", "Black"],
+      "price": 8884.26
+    },
+    {
+      "id": 48,
+      "name": "Solar-Powered Outdoor Lights",
+      "description": "Illuminate your garden with eco-friendly lights",
+      "colors": ["Warm White", "Blue", "Green"],
+      "price": 2542.26
+    },
+    {
+      "id": 49,
+      "name": "Stainless Steel French Press",
+      "description": "Brew rich coffee with this classic press",
+      "colors": ["Stainless Steel", "Black", "Silver"],
+      "price": 2184.26
+    },
+    {
+      "id": 50,
+      "name": "Compact Blender",
+      "description": "Blend smoothies and shakes with ease",
+      "colors": ["Purple", "Blue", "Red"],
+      "price": 2999.51
+    }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "middlewares",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "(cd product-service && npm run start) & (cd order-server && npm run start) & (cd rabbit-mq-notification-service && npm run start) & (cd kafka-notification-service && npm run start)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "vhosts": {
+    "v1": {
+      "connection": {
+        "url": "amqp://nagp:jan1234@localhost:5742/",
+        "retry": {
+          "min": 1000,
+          "max": 60000,
+          "factor": 2,
+          "strategy": "exponential"
+        }
+      },
+      "exchanges": {
+        "order_events_fanout": {
+          "type": "fanout",
+          "assert": true,
+          "check": true
+        }
+      },
+      "queues": {
+        "order_created": {
+          "assert": true,
+          "options": {}
+        },
+        "order_created_updated": {
+          "assert": true,
+          "options": {}
+        }
+      },
+      "bindings": [
+        "order_events_fanout -> order_created",
+        "order_events_fanout[order.*] -> order_created_updated"
+      ],
+      "publications": {
+        "order.create": {
+          "vhost": "v1",
+          "exchange": "order_events_fanout"
+        }
+      }
+    }
+  }
+}
