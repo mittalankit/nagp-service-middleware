@@ -11,7 +11,7 @@
         }
       },
       "queues": {
-        "order_updated": {
+        "order_created_updated": {
           "assert": true,
           "check": true
         }
@@ -19,7 +19,7 @@
       "subscriptions": {
         "order_updated_sub": {
           "vhost": "v1",
-          "queue": "order_updated"
+          "queue": "order_created_updated"
         }
       }
     }

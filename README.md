@@ -20,8 +20,7 @@ Following ports should be available for the nodejs services:
   3. Go to `rabbit-mq-notification-service` folder and run `npm install`
 
 ### **How to run**
-#### Preferred way:
-- The preferred way is to run each service in a separate terminal
+- Run each service in a separate terminal
   1. Go to `product-service` folder and run `npm start`
   2. Go to `order-server` folder and run `npm start`
   3. Go to `rabbit-mq-notification-service` folder 
